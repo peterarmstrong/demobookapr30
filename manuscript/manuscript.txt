@@ -6,6 +6,8 @@ Welcome to the Leanpub Browser book writing editor! This page is where you will 
 
 This is a paragraph. You just write.
 
+![](cmux.png "Here is cmux")
+
 Blank lines are used to separate paragraphs.
 
 To make *italic text* you surround it with single asterisks. To make **bold text** you surround it with double asterisks.
